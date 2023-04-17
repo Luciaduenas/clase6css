@@ -1,0 +1,102 @@
+
+#SelectorID {
+    color: #9c004e;
+}
+.selectorCLASE {
+    color: blue;
+}
+h4 {
+    background-color: bisque;
+}
+
+.caja {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: sandybrown;
+}
+.cajaMediana{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+.cajaGrande{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    background-color: palevioletred;
+    border-radius: 3rem;
+}
+
+.em{
+    font-size: 2em;
+}
+.rem{
+    font-size: 2rem;
+}
+
+.pocentaje {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(153, 106, 35);
+}
+
+.bg-color{
+    background-color: crimson;
+}
+
+.bg-img {
+    background-image: url(./Logo\ pequeño\ para\ zoom.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-repeat {
+    background-image: url(./Logo\ pequeño\ para\ zoom.jpg);
+    background-repeat: repeat;
+}
+
+.bg-attach {
+    background-image: url(./Logo\ pequeño\ para\ zoom.jpg);
+    background-attachment: fixed;
+}
+
+.overflow {
+    background-image: url(./Logo\ pequeño\ para\ zoom.jpg);
+    background-attachment: unset;
+    overflow: scroll;
+}
+
+.boxshadow {
+
+    background-color: pink;
+        width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    color:red
+}
+
+.offsetxy {
+    box-shadow: 10px 10px;
+}
+
+.blurRadius{
+    box-shadow: 10px 10px 20px;
+}
+
+.SpreadRadius{
+    box-shadow: 10px 10px 5px 5px;
+}
+
+.color{
+    box-shadow: 10px 10px 5px 5px; rgba(10,10,10,10)
+}
+
+.font-fa p{
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+}
